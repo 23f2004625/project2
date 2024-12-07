@@ -38,7 +38,7 @@ import seaborn as sns
 import requests
 import chardet
 from datetime import datetime
-#from matplotlib import rcParams
+from matplotlib import rcParams
 
 # Configuration Section
 CONFIG = {
